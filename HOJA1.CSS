@@ -1,0 +1,230 @@
+div#goku{
+	   margin: auto;
+	   width: 1200px;
+	   height: 1204px;
+	   background-color:#229954   ; 
+	   border-radius:12px;
+        }
+
+div#vegeta{
+	
+       margin:3%;
+	   width:835px;
+	   height: 160px; 
+	    background-color:#BDB76B  ; 
+		border-radius:12px;
+          }
+		
+div#Gohan{
+       margin: auto;
+	   width: 1100px;
+	   height: 60px;
+	    background-color:#56D8D6 ; 
+		border-radius:12px;
+          }
+ body{
+	 font-family:Arial;
+	 background-color:#58D68D ;
+     }	 
+.menu{
+	 max-width:1000px;
+	list-style: none;
+	padding:0;
+	Margin:auto;
+	background:#87CEFA;
+	width: 100%
+     }
+	 
+.menu li a{
+    display: block;
+	text-decoration: none;
+	color:white;
+	padding:20px
+	
+     }
+.menu li{
+		 display:inline-block;
+		 text-align:center;
+	 }
+	 
+.menu li a:hover{
+    background: #BDB76B
+	}	
+	
+	div#picoro{ 
+	display: flex; 
+	}
+	
+div#milk{
+       margin:3%;
+	   width:700px;
+	   height: 600px; 
+	    background-color:#FDEBD0; 
+		border-radius:12px;
+		margin-left:40px;
+          }   
+div#pan{
+       margin:3%;
+	   width:400px;
+	   height: 400px; 
+	    background-color:#FDEBD0 ; 
+		border-radius:12px;
+		margin-top:15%;
+          }
+
+.P{
+    color:black; 
+	font-family:Times New Roman ;
+	font-size:15px
+    }
+
+.src-black{
+     margin-top:100;
+      width: 60;
+	  height: 60;
+	  border-radius:12px;
+     }	  
+
+div#poco{
+       margin:auto;
+	  width:530px;
+	   height: 500px;
+	    background-color:#FDEBD0 ; 
+		border-radius:12px;
+		margin-left:40px;
+          }   
+		  
+div#gotens{
+	   margin:auto;
+	   width: 1200px;
+	   height: 1204px;
+	   background-color: #229954; 
+	   border-radius:12px;
+     }
+	 
+ div#black{
+	   margin:auto;
+	   width:530px;
+	   height: 500px;
+	   background-color:#FDEBD0 ; 
+	   border-radius:12px;
+	   margin-right:70px;
+     }
+
+
+div#leonel{
+	   margin:auto;
+	   width: 1200px;
+	   height: 1450px;
+	   background-color: #229954 ; 
+	   border-radius:12px;
+         }
+	
+
+div#pasa{
+	 margin:auto;
+	  width:530px;
+	   height: 950px;
+	    background-color:#FDEBD0 ; 
+		border-radius:12px;
+		margin-left:40px;
+     }
+	 
+div#comida{
+	 margin:auto;
+	  width:530px;
+	   height: 950px;
+	    background-color:#FDEBD0 ; 
+		border-radius:12px;
+		margin-left:40px;
+}
+
+.reglas {
+  margin-bottom: 20px;
+}
+
+.reglas h2 {
+  color: #2ECC71 ;
+  font-size: 20px;
+}
+
+.reglas p {
+  color: #666666;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+div#yese{
+	   margin: auto;
+	   width: 1200px;
+	   height: 1404px;
+	   background-color:#229954 ; 
+	   border-radius:12px;
+          }
+		  
+div#maincla{
+	 margin:auto;
+	  width:630px;
+	   height: 780px;
+	    background-color:#FDEBD0 ; 
+		border-radius:12px;
+		margin-left:30px;
+		font-weight: bold;
+             }
+			 
+div#propla{
+	 margin:auto;
+	  width:430px;
+	   height: 750px;
+	    background-color:#FDEBD0 ; 
+		border-radius:12px;
+		margin-right:25px;
+		font-weight: bold;
+             }
+			 
+.titulo {
+  color: white;
+  margin-top: 10px;
+  font-family: Arial Nova;
+  font-size: 150px;
+  text-align: center;
+    }
+	
+	
+.tomate {
+	  color:Blue;
+  margin-top: 10px;
+  font-family: Arial;
+  font-size: 40px;
+   text-align: center;
+    }
+	
+.caracol {
+	font-weight: bold;
+	text-align: center;
+    }
+	
+.amor {
+	color:purple;
+	font-weight: bold;
+	text-align: center;
+       }
+	
+	
+div#leche {
+	color:yellow;
+	text-align: center;
+	font-weight: bold;
+	font-style: italic;
+	margin: auto;
+	   width: 700px;
+	   height: 50px;
+	   background-color: #7DCEA0 ; 
+	   border-radius:12px;
+	   margin-bottom:20%;
+     }
+	
+
+
+	
+	
